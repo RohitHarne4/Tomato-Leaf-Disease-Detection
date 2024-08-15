@@ -48,6 +48,6 @@ results: contains the results of the PCA DeepNet system
 utils: contains utility functions used in the study
 
 #Contact
-If you have any questions or need further information, please contact prajyotwasekar7620@gmail.com.
+If you have any questions or need further information, please contact rohitharne21@gmail.com.
 
 I hope this revised version meets your requirements! Let me know if you need any further modifications.
